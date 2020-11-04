@@ -32,4 +32,7 @@
     <string name="pref_sleep_gesture_title">Doppeltippen zum Sperren</string>
     <string name="pref_sleep_gesture_summary">Zum Sperren auf einen leeren Bereich doppeltippen</string>
 
+    <!-- Suggestions -->
+    <string name="suggestion_pref_screen_title">App-Vorschläge</string>
+    <string name="suggestion_pref_screen_desc">In Liste aller Apps &amp; auf Startbildschirm</string>
 </resources>
